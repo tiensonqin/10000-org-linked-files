@@ -1,6 +1,5 @@
 #+TITLE: Oct 8th, 2020
 
-** hello world
-** [[esophageal family comatulidae [[file: from.org][ from]] here O mouse]] is cool
-** hello
-** world
+** What's the performance for 10k notes?
+Not bad!
+** [[esophageal family comatulidae [[file: from.org][ from]] here O mouse]]
